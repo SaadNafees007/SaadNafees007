@@ -70,7 +70,7 @@ I enjoy building practical applications, exploring new technologies, and improvi
 
 ### COMSATS Lost & Found
 
-A Flutter-based campus Lost & Found application built to help university students report lost and found belongings, browse listings, and search for relevant items.
+A Flutter-based campus Lost & Found application built with Firebase, featuring user authentication, item reporting, search, and a feature-based architecture.
 
 **Technologies:** Flutter · Dart · Firebase Authentication · Cloud Firestore · Riverpod · GoRouter
 
@@ -82,7 +82,7 @@ A Flutter-based campus Lost & Found application built to help university student
 
 ### TeamUp-Flutter
 
-An offline-first Flutter application designed to help university students discover compatible teammates based on skills and interests, manage project teams, and collaborate effectively.
+A Flutter-based team collaboration app for discovering teammates, matching skills, managing projects, and organizing tasks.
 
 **Technologies:** Flutter · Dart · Riverpod · Hive · GoRouter
 
@@ -94,7 +94,7 @@ An offline-first Flutter application designed to help university students discov
 
 ### Campus Voice
 
-An anonymous university complaint management system that allows students to submit complaints and track their resolution while administrators manage the complaint workflow.
+A campus voice system where students can submit complaints anonymously. Admins can view all complaints, track them, update complaint status, and resolve complaints.
 
 **Technologies:** Flutter · Dart · Firebase · SQLite
 
